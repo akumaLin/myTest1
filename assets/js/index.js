@@ -1,0 +1,1 @@
+webpackJsonp([0],[,function(n,o){},function(n,o){},function(n,o){n.exports={name:"lyx"}},function(n,o,e){var l,c,t=e(0);e(1),e(2),t("#welcome").html("hello world"),l=[e(3)],c=function(n){return console.log(n),t("#welcome").append(n.name)}.apply(o,l),void 0!==c&&(n.exports=c)}],[4]);
